@@ -25,7 +25,7 @@ export default function ContactPage() {
         <section className="max-w-7xl mx-auto px-8 mb-24 uppercase tracking-tighter">
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-end">
             <div className="md:col-span-7">
-              <h1 className="font-headline text-6xl md:text-8xl text-on-surface leading-tight mb-8 lowercase tracking-tighter">
+              <h1 className="font-headline text-6xl md:text-8xl text-on-surface leading-tight mb-8 tracking-tighter">
                 Get in <span className="italic text-primary lowercase tracking-tighter">Touch</span>
               </h1>
               <p className="text-on-surface-variant text-lg max-w-md font-light leading-relaxed normal-case tracking-normal">
