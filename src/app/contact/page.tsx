@@ -37,7 +37,7 @@ export default function ContactPage() {
                 <img 
                   alt="Luxury Salon Aesthetics" 
                   className="w-full h-full object-cover grayscale-[0.2] contrast-[1.1] hover:scale-105 transition-transform duration-1000" 
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuCqj93vsqoszHrlRfmBP9clIQIB70Z2NgUhZ28JqedbjaFQVu3zd7nw06GnemUTG1oJV38Rhtaj7pRsmmIgvoRzojGav5RFWR9OpK9yBUockU_QTOvmzNxpv5k5t0et5QWh78w7j3QqX8LDGFiPYWUhkTRUOHGxM9x5doLkqfG7KS9pqMPcTfkXFG1aPnSN_D0cB_FHjFERQFR6F_RalOewi48NlOYN3hH62t2wDlYa7QryoT8J1bdr_ZnV7bf7HnK54uE-m69Gnvk"
+                  src="/contact_hero.png"
                 />
               </div>
             </div>
@@ -138,7 +138,7 @@ export default function ContactPage() {
             <div className="relative group overflow-hidden rounded-2xl aspect-square lg:aspect-auto lg:h-[500px] shadow-2xl shadow-primary/5 transition-transform duration-700 hover:-translate-y-1">
               <img 
                 className="w-full h-full object-cover filter grayscale opacity-70 group-hover:scale-105 transition-transform duration-1000" 
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuAbrDLNnKmyyXG7ys6wJ-UoXcrevsJXVtqDQr_VmOZYkwILbGOF1tbe6sIMvtp17obwrrV9tL7N4ai80w2fhQVGkKm81XQ78S61fRo7PkBh2uHS3-1C4iWRNAqn3Q-Ki9K1DvAo0A-nV9n-UeZCCCXRECTUpfBrw7iyzKfdVrbudKX3C1Vd0_5lpjQQB7MlP55ERw7OBRvIo4q2HqJJyP2iPdtiWTyN1A2SIWmKx9-Buu_7pCQbrZfe9F76Id_wJNGYNcvERhDeH8I"
+                src="/contact_map_placeholder.png"
                 alt="Stylized map of Edgware"
               />
               <div className="absolute inset-0 bg-primary/5 mix-blend-multiply pointer-events-none"></div>
